@@ -1,4 +1,4 @@
-# tiktaktoe
+# Tic-Tac-Toe
 
 ![Image](tictaktoe.png)
 
